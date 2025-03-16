@@ -2,6 +2,7 @@ body {
     font-family: Tahoma, Verdana, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #e9c46a;
 }
 
 header {
@@ -35,16 +36,13 @@ h1, h2 {
 }
 
 .box {
+    background-color: white;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     margin: 10px;
     padding: 20px;
     width: 70%; 
     max-width: 600px;
-}
-
-.yellow {
-    background-color: #e9c46a;
 }
 
 .green {
